@@ -14,3 +14,4 @@ To break down bigger problem into smaller problems. Never about the input.<br />
 
 - Memory usage when we call a function
 
+![Memory stacks](images/Memory.jpeg)
