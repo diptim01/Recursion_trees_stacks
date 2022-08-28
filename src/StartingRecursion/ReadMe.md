@@ -25,3 +25,9 @@ We deallocate only when the function call has been successfully done!
 
 > Recurrence Relation
 <p> Mathematical representation of the recursion </p>
+<p> f(n) = f(n) + f(n-1)</p>
+
+# Pros and Cons of Recursion
+
+<p> Short and easy to read</p>
+<p> Takes a lot of space because of the stacks</p>
