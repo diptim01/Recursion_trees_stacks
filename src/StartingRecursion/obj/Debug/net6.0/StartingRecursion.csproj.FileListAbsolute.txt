@@ -1,0 +1,15 @@
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/bin/Debug/net6.0/StartingRecursion
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/bin/Debug/net6.0/StartingRecursion.deps.json
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/bin/Debug/net6.0/StartingRecursion.runtimeconfig.json
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/bin/Debug/net6.0/StartingRecursion.dll
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/bin/Debug/net6.0/StartingRecursion.pdb
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.csproj.AssemblyReference.cache
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.AssemblyInfoInputs.cache
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.AssemblyInfo.cs
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.csproj.CoreCompileInputs.cache
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.dll
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/refint/StartingRecursion.dll
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.pdb
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/StartingRecursion.genruntimeconfig.cache
+/Users/Oladipo.Alokan/RiderProjects/Recursion_trees_stacks/src/StartingRecursion/obj/Debug/net6.0/ref/StartingRecursion.dll

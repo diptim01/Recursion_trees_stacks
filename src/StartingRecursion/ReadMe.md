@@ -8,6 +8,7 @@ To break down bigger problem into smaller problems. Never about the input.<br />
 
 ###Key points
 > - smaller problems
+
 > - Visualisation through a recursive tree.
 
 ![Single Recursion tree](images/Recursion_tree.jpeg)
@@ -18,3 +19,9 @@ To break down bigger problem into smaller problems. Never about the input.<br />
 ![Memory stacks](images/Memory.jpeg)
 
 We deallocate only when the function call has been successfully done!
+
+> Base Condtion
+<p> Without this, this stack will get FULL and we get *STACKOVERFLOW*</p>
+
+> Recurrence Relation
+<p> Mathematical representation of the recursion </p>
