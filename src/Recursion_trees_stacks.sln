@@ -6,6 +6,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4DC71AD0-D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartingRecursion", "StartingRecursion\StartingRecursion.csproj", "{E199F1A4-9E2A-4A0D-B37E-9018C3034CBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Sequence", "Fibonacci Sequence\Fibonacci Sequence.csproj", "{D53D94E0-6EEC-4354-9517-8935F38235AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E199F1A4-9E2A-4A0D-B37E-9018C3034CBE} = {BFFAF6C0-3DEF-48FF-BC0D-B5B55C92CB81}
+		{D53D94E0-6EEC-4354-9517-8935F38235AD} = {BFFAF6C0-3DEF-48FF-BC0D-B5B55C92CB81}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E199F1A4-9E2A-4A0D-B37E-9018C3034CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E199F1A4-9E2A-4A0D-B37E-9018C3034CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E199F1A4-9E2A-4A0D-B37E-9018C3034CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E199F1A4-9E2A-4A0D-B37E-9018C3034CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53D94E0-6EEC-4354-9517-8935F38235AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53D94E0-6EEC-4354-9517-8935F38235AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53D94E0-6EEC-4354-9517-8935F38235AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53D94E0-6EEC-4354-9517-8935F38235AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
